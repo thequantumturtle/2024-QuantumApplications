@@ -1,2 +1,2 @@
-# QuantumSpring2024
-Quantum Class at CMU. 2024
+# QuantumFall2023
+Quantum Class at CMU. 2023

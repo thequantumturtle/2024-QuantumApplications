@@ -25,10 +25,8 @@ Everything a student needs to know to succeed.
 ### Books
 
 #### Main Book: 
-- [Mike And Ike](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview)   
+- [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)   
     We will be working mostly out of this book.
-
-- [Quantum Information Science](https://global.oup.com/academic/product/quantum-information-science-9780198787488?cc=us&lang=en&)
 
 #### Extra Reading:
 - [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)    

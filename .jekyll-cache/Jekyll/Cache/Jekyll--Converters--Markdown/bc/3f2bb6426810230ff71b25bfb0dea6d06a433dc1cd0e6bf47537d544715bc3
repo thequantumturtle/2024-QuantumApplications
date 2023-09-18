@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Course name</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&subset=latin-ext" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Inconsolata&subset=latin-ext" rel="stylesheet">
-	<link rel="stylesheet" href="/2024-QuantumApplications/style/styles.css">
-</head>
-<body>
-	<div class="column">
-		<p class="subtitle">17-617 — Programming Quantum Computers — Fall Semester 2023</p>
-<nav>
-	<ul>
-		
-		
-		
-		<li><a href="/2024-QuantumApplications/404.html"></a></li>
-		
-		
-		
-		<li><a href="/2024-QuantumApplications/feed.xml"></a></li>
-		
-		
-		
-		<li class="active"><a href="/2024-QuantumApplications/" class="active">Basic info</a></li>
-		
-		
-		
-		<li><a href="/2024-QuantumApplications/schedule.html">Schedule</a></li>
-		
-		
-		
-		<li><a href="/2024-QuantumApplications/requirements.html">Course requirements</a></li>
-		
-		
-	</ul>
-</nav>
-
-<h1>Programming Universal Gate Quantum Computers</h1>
+I"�<h1>Programming Universal Gate Quantum Computers</h1>
 
 <p><img src="/2024-QuantumApplications/style/books_header.jpg" width="100%" /></p>
 
@@ -88,8 +48,4 @@
 <a href="syllabus/14-Presentations.html"><strong>Day 14</strong></a> (04/24): Project Presentations</p>
 
 <p><em>Schedule with assignments, readings, etc. can be found <a href="schedule.html">here</a></em></p>
-
-
-	</div>
-</body>
-</html>
+:ET

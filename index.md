@@ -8,14 +8,15 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
-Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)   
+Mondays and Wednesdays (TBD @ 3SC 265)   
+[Derek Wang](https://derekswang.com/)  
 [Daniel Justice](https://thequantumturtle.github.io/)
 
 ## Location
-Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/98486345862?pwd=ZUp3V3FyRlB4TklYL2FxKzJ2eXFnZz09). I encourage you to come to class and use Zoom as a fallback option.
+Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](). I encourage you to come to class and use Zoom as a fallback option.
 
 ## Course Goals
-Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
+Students will gain familiarity with applications executed on universal gate quantum computing tools and technology. Students will also become comfortable with several Advanced QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
 
 ## Grading
 90% Homeworks/Quizzes, 10% Participation.
@@ -24,6 +25,8 @@ Students will gain familiarity with current universal gate quantum computing too
 Each week a quiz will be given. The worst one will not be counted.
 
 ## Prerequisites
+Basic Quantum Computing Experience
+
 Python, Jupyter Notebooks, Linear Algebra
 
 Students will **not** need an understanding of quantum mechanics.
@@ -38,20 +41,20 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 
 
 ## Schedule
-[**Day 1**](syllabus/1-Introduction.html) (08/28): Introduction  
-[**Day 2**](syllabus/2-One-Qbit.html) (08/30): Qubits  
-**Holiday** (09/04): Labor Day  
-[**Day 3**](syllabus/3-Multi-Qbits.html) (09/06): Multiple Qubits  
-[**Day 4**](syllabus/4-Teleportation.html) (09/11): Quantum Teleportation  
-[**Day 5**](syllabus/5-BB84.html) (09/13): BB84  
-[**Day 6**](syllabus/6-Arithmetic.html) (09/18): Quantum Arithmetic and Logic  
-[**Day 7**](syllabus/7-Amp-Amp.html) (09/20): Amplitude Amplification  
-[**Day 8**](syllabus/8-QFT.html) (09/25): QFT: Quantum Fourier Transform  
-[**Day 9**](syllabus/9-Quantum-Phase-Estimation.html) (09/27): Quantum Phase Estimation  
-[**Day 10**](syllabus/10-Real-Data.html) (10/02): Real Data  
-[**Day 11**](syllabus/11-Quantum-Search.html) (10/04): Quantum Search  
-[**Day 12**](syllabus/12-Guest.html) (10/09): Guest Lecture  
-[**Day 13**](syllabus/13-Shors.html) (10/11): Shor's Factoring Algorithm  
+[**Day 1**](syllabus/1-Introduction.html) (03/11): Introduction  
+[**Day 2**](syllabus/2-Data-Loading.html) (03/13): Data Loading  
+[**Day 3**](syllabus/3-Time-Evolution.html) (03/18): Algorithms: Time Evolution  
+[**Day 4**](syllabus/4-Variational.html) (03/20): Algorithms: Variational  
+[**Day 5**](syllabus/5-Kernels.html) (03/25): Algorithms: Kernels  
+[**Day 6**](syllabus/6-Non-Unitary.html) (03/27): Algorithms: Non-Unitary  
+[**Day 7**](syllabus/7-Hardware-1.html) (04/01): Hardware I: Theory  
+[**Day 8**](syllabus/8-Hardware-2.html) (04/03): Hardware II: Superconducting Qubits  
+[**Day 9**](syllabus/9-Hardware-3.html) (04/08): Hardware III: Noise  
+[**Day 10**](syllabus/10-Error-Mitigation-1.html) (04/10): Error Mitigation I  
+[**Day 11**](syllabus/11-Error-Mitigation-2.html) (04/15): Error Mitigation II  
+[**Day 12**](syllabus/12-Beyond-NISQ.html) (04/17): Beyond NISQ Era Compute  
+[**Day 13**](syllabus/13-Guest.html) (04/22): Guest Lecture  
+[**Day 14**](syllabus/14-Presentations.html) (04/24): Project Presentations  
 
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*

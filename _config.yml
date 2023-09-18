@@ -1,10 +1,10 @@
 # configuration
 # fill in the course details
  
-courseName: "Programming Universal Gate Quantum Computers"
+courseName: "Quantum Computing Applications in Practice"
 
 # small title that is at the top of every page
-subtitle: "17-617 — Programming Quantum Computers — Fall Semester 2023"
+subtitle: "17-6XX — Programming Quantum Computers — Spring Semester 2024"
 
 # baseurl is the same as the name of the repository
 baseurl: /2024-QuantumApplications

@@ -1,0 +1,51 @@
+I"š<h1>Quantum Computer Applications in Practice</h1>
+
+<p><img src="/2024-Fall-QuantumApplications/style/books_header.jpg" width="100%" /></p>
+
+<p>Mondays and Wednesdays (TBD @ 3SC 265) <br />
+<a href="https://derekswang.com/">Derek Wang</a><br />
+<a href="https://thequantumturtle.github.io/">Daniel Justice</a></p>
+
+<h2 id="location">Location</h2>
+<p>Class room is at 3SC 265. The class is in person but will also be streamed via <a href="">Zoom</a>. I encourage you to come to class and use Zoom as a fallback option.</p>
+
+<h2 id="course-goals">Course Goals</h2>
+<p>Students will gain familiarity with applications executed on universal gate quantum computing tools and technology. Students will also become comfortable with several Advanced QC algorithms and their implementation on state of the art quantum computer simulators and hardware.</p>
+
+<h2 id="grading">Grading</h2>
+<p>90% Homeworks/Quizzes, 10% Participation.</p>
+
+<h2 id="quizzes">Quizzes</h2>
+<p>Each week a quiz will be given. The worst one will not be counted.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Basic Quantum Computing Experience</p>
+
+<p>Python, Jupyter Notebooks, Linear Algebra</p>
+
+<p>Students will <strong>not</strong> need an understanding of quantum mechanics.</p>
+
+<p>Note: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the groupâ€™s overall skill level. Adequate notice will be given.</p>
+
+<h2 id="basic-course-structure">Basic course structure</h2>
+
+<p>Due to this being a mini, we will do our best to skirt into a new topic each and every day.</p>
+
+<h2 id="schedule">Schedule</h2>
+<p><a href="syllabus/1-Introduction.html"><strong>Day 1</strong></a> (03/11): Introduction<br />
+<a href="syllabus/2-Data-Loading.html"><strong>Day 2</strong></a> (03/13): Data Loading<br />
+<a href="syllabus/3-Time-Evolution.html"><strong>Day 3</strong></a> (03/18): Algorithms: Time Evolution<br />
+<a href="syllabus/4-Variational.html"><strong>Day 4</strong></a> (03/20): Algorithms: Variational<br />
+<a href="syllabus/5-Kernels.html"><strong>Day 5</strong></a> (03/25): Algorithms: Kernels<br />
+<a href="syllabus/6-Non-Unitary.html"><strong>Day 6</strong></a> (03/27): Algorithms: Non-Unitary<br />
+<a href="syllabus/7-Hardware-1.html"><strong>Day 7</strong></a> (04/01): Hardware I: Theory<br />
+<a href="syllabus/8-Hardware-2.html"><strong>Day 8</strong></a> (04/03): Hardware II: Superconducting Qubits<br />
+<a href="syllabus/9-Hardware-3.html"><strong>Day 9</strong></a> (04/08): Hardware III: Noise<br />
+<a href="syllabus/10-Error-Mitigation-1.html"><strong>Day 10</strong></a> (04/10): Error Mitigation I<br />
+<a href="syllabus/11-Error-Mitigation-2.html"><strong>Day 11</strong></a> (04/15): Error Mitigation II<br />
+<a href="syllabus/12-Beyond-NISQ.html"><strong>Day 12</strong></a> (04/17): Beyond NISQ Era Compute<br />
+<a href="syllabus/13-Guest.html"><strong>Day 13</strong></a> (04/22): Guest Lecture<br />
+<a href="syllabus/14-Presentations.html"><strong>Day 14</strong></a> (04/24): Project Presentations</p>
+
+<p><em>Schedule with assignments, readings, etc. can be found <a href="schedule.html">here</a></em></p>
+:ET

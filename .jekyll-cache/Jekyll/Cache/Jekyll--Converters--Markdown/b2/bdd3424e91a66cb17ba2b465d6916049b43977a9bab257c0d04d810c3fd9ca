@@ -1,0 +1,11 @@
+I"<h3 id="before-class">Before Class</h3>
+<p>Read Chapters 1-2 in the <a href="https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683">Octopus</a> Book</p>
+
+<h3 id="summary">Summary</h3>
+<p>We will go over QC (quantum computing) basics. How to imagine quantum circuits vs classical circuits. The notation necessary to talk and communicate about quantum states. Single qubit gates will be introduced and used.</p>
+
+<h3 id="notes">Notes</h3>
+<ul>
+  <li>Reminder to bring computer to class.</li>
+</ul>
+:ET

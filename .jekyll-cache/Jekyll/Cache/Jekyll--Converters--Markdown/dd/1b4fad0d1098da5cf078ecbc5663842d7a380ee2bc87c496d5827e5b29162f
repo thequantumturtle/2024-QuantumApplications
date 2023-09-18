@@ -1,0 +1,25 @@
+I"•<h2 id="before-class">Before Class</h2>
+
+<h3 id="books">Books</h3>
+<h4 id="main-book">Main Book:</h4>
+<ul>
+  <li><a href="https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683">Octopus Book</a> <br />
+  We will be working mostly out of this book.</li>
+</ul>
+
+<h4 id="extra-reading">Extra Reading:</h4>
+<ul>
+  <li><a href="https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965">Blue Book</a>  <br />
+  This book gives a great explanation on how to conceptualize Quantum Computers. First few chapters are great if you donâ€™t feel confident with the math.</li>
+  <li><a href="http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf">Gentle Book</a>  <br />
+  A very computer science take on quantum computers. A good read if you are hoping to do research.</li>
+</ul>
+
+<h3 id="notes">Notes</h3>
+<ul>
+  <li>Reminder to bring computer to class.</li>
+</ul>
+
+<h3 id="summary">Summary</h3>
+<p>We will be going over class requirements and expectations. Then we will give a frame work for where quantum computers come from and why as an industry we are putting so much effort into such a difficult endeavour.</p>
+:ET
